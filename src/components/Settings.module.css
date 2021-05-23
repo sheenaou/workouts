@@ -1,0 +1,11 @@
+.sliderContainer {
+    margin-bottom: 1rem;
+}
+
+.labelContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 0.5rem;
+    font-size: 1rem;
+}
